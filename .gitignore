@@ -1,0 +1,6 @@
+.DS_Store
+.claude/settings.local.json
+.claude/projects/
+# Added by code-review-graph
+.code-review-graph/
+.mcp.json
